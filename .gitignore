@@ -6,3 +6,6 @@
 
 build/
 doc/
+
+# FVM Version Cache
+.fvm/
